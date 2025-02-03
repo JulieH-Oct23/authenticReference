@@ -33,7 +33,7 @@ h3 {
 #poses {
     padding:10px;
     margin:10px;
-    height: 20%;
+    height: 25vh;
     width: 90vw;
     display: flex;
     flex-direction: row;
@@ -43,7 +43,7 @@ h3 {
 #listingSection{
     padding:10px;
     margin:10px;
-    height: 65%;
+    height: 60vh;
     width: 90vw;
     display: flex;
     flex-direction: row;
