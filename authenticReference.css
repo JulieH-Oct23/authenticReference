@@ -47,6 +47,7 @@ h3 {
     width: 90vw;
     display: flex;
     flex-direction: row;
+    color: rgb(238, 244, 244);
 } 
 
 .container {
