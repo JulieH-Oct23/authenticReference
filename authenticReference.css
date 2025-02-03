@@ -62,7 +62,6 @@ h3 {
     background: rgb(1, 53,71);
     margin: 1rem;
     border: 1px solid rgb(201, 140, 0);
-    color: rgb(238, 244, 244);
     display: flex;   
     flex-direction: column;
     overflow-y: auto;
