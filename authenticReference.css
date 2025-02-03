@@ -75,7 +75,6 @@ h3 {
     margin:10px;
     width: 200px;
     height: 200px;
-    object-fit: contain;
     display: flex;
     flex-direction: row;
     align-content: space-around;
