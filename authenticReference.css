@@ -1,0 +1,82 @@
+/* This will be style for each pose page or element, need to include size, frame, position, text */
+body {
+    background-color: rgb(238, 244, 244);
+    width:90vw;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 10px;
+    line-height: 1.5;
+}
+
+a {
+    color:rgb(234, 48, 209);
+}
+
+H1 {
+    color: rgb(201, 140, 0);
+}
+
+h2 {
+    color: rgb(1, 53, 71);
+}
+
+h3 {
+    color: rgb(201, 140, 0);
+}
+
+#title{
+    left: 50px;
+    padding:10px;
+    margin:20px;
+    position: relative;
+}
+
+#poses {
+    padding:10px;
+    margin:10px;
+    height: 25vh;
+    width: 90vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#listingSection{
+    padding:10px;
+    margin:10px;
+    height: 60vh;
+    width: 90vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: rgb(238, 244, 244);
+} 
+
+.container {
+    padding:10px;
+    margin:10px;
+    background-color:  rgb(1, 53, 71);
+    border: solid 10px rgb(201, 140, 0);
+}
+
+.section {
+    padding: 10px;
+    margin: 10px;
+    width: 200px;
+    background: rgb(1, 53,71);
+    border: solid 1px rgb(201, 140, 0);
+    display: flex;   
+    flex-direction: column;
+    overflow-y: auto;
+}
+
+
+.mySlides {
+    padding:10px; 
+    margin:10px;
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    overflow-x: auto;
+}
